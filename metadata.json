@@ -1,0 +1,5 @@
+{
+  "name": "Scriptorium",
+  "description": "A polyglot transliteration tool and typing practice app. Switch between freeform mode and a practice mode with scoring (WPM, Accuracy) and track your performance over time with a statistics dashboard.",
+  "requestFramePermissions": []
+}
