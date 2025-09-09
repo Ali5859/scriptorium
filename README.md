@@ -1,7 +1,7 @@
 
 
-# Run and deploy your AI Studio app
-
+# Cognitive mind-bending network of language
+do it. see the effects...
 This contains everything you need to run your app locally.
 ^_^^_^^_^^_^^_^^_^
 ## Run Locally
